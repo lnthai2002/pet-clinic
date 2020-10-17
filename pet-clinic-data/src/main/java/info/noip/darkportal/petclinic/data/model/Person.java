@@ -1,4 +1,4 @@
-package info.noip.darkportal.petclinic.model;
+package info.noip.darkportal.petclinic.data.model;
 
 public class Person {
     private String firstName;

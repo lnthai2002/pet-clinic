@@ -1,4 +1,4 @@
-package info.noip.darkportal.petclinic.model;
+package info.noip.darkportal.petclinic.data.model;
 
 public class PetType {
     private String name;
